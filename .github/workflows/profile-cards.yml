@@ -25,77 +25,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Prepare assets directory
-        run: mkdir -p assets
-
-      - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true
-          path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8
-          path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Eventora card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Eventora&theme=github_dark&hide_border=true&border_radius=12
-          path: assets/pin-eventora.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Feedback Fusion card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Feedback-Fusion&theme=github_dark&hide_border=true&border_radius=12
-          path: assets/pin-feedback-fusion.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Taskflow card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Taskflow&theme=github_dark&hide_border=true&border_radius=12
-          path: assets/pin-taskflow.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Nexora card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Nexora&theme=github_dark&hide_border=true&border_radius=12
-          path: assets/pin-nexora.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate self-hosted activity cards
+      - name: Render self-hosted profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
-          cards: overview,momentum,contributions
+          cards: overview,momentum,contributions,languages
           output-dir: assets
           themes: light,dark
-          commit: false
-
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git commit -m "chore(profile): refresh generated cards [skip ci]" || exit 0
-          git push
+          language-limit: 8
+          commit: true
+          commit-message: "chore(profile): refresh generated cards [skip ci]"
