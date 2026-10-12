@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="220" viewBox="0 0 846 220" role="img" aria-label="Vibudh Rathore - Full Stack Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.52" stop-color="#0b5fff"/>
+      <stop offset="1" stop-color="#6f42c1"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="846" height="220" rx="18" fill="url(#g)"/>
+  <circle cx="700" cy="38" r="120" fill="url(#glow)"/>
+  <circle cx="780" cy="184" r="150" fill="url(#glow)" opacity="0.6"/>
+  <g opacity="0.26" fill="none" stroke="#ffffff">
+    <path d="M30 170 C170 100 230 220 380 140 S620 70 820 130"/>
+    <path d="M70 45 C220 10 290 100 430 64 S650 15 800 58"/>
+  </g>
+  <text x="423" y="92" text-anchor="middle" fill="#ffffff" font-size="46" font-weight="800" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Vibudh Rathore</text>
+  <text x="423" y="130" text-anchor="middle" fill="#e6edf3" font-size="19" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Full Stack Developer · Next.js · React.js · Node.js · TypeScript</text>
+  <text x="423" y="164" text-anchor="middle" fill="#dbeafe" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Building scalable products · SaaS · E-commerce · Performance Engineering</text>
+</svg>
