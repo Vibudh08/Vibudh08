@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=20261014" width="100%" alt="Vibudh Rathore - Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/Vibudh08/Vibudh08/2a21d7469d7c150eda49aedf44c541ade369882b/assets/header.svg" width="100%" alt="Vibudh Rathore - Full Stack Developer" />
 
 <br/>
 
@@ -24,8 +24,8 @@ I enjoy taking a product from its interface to the APIs, database, authenticatio
 <a href="https://github.com/Vibudh08/Eventora"><img src="./assets/project-eventora.svg" width="410" alt="Eventora: event bookings, seat tracking, Razorpay payments and user/admin dashboards. React, Node.js, Express, MongoDB and JWT." /></a>
 <a href="https://github.com/Vibudh08/Feedback-Fusion"><img src="./assets/project-feedback-fusion.svg" width="410" alt="Feedback Fusion: feedback, voting, comments, a public roadmap and role-based status management. Next.js, TypeScript, Prisma, PostgreSQL and Clerk." /></a>
 
-<a href="https://github.com/Vibudh08/Taskflow"><img src="./assets/project-taskflow.svg?v=20261014" width="410" alt="Taskflow: authenticated task dashboard with filters, pagination, metrics and optimistic updates. Next.js, TypeScript, MongoDB and TanStack Query." /></a>
-<a href="https://github.com/Vibudh08/Nexora"><img src="./assets/project-nexora.svg?v=20261014" width="410" alt="Nexora Digital: lead management, a Gemini chatbot, Razorpay test payments and email automation. Next.js, TypeScript and MongoDB." /></a>
+<a href="https://github.com/Vibudh08/Taskflow"><img src="https://raw.githubusercontent.com/Vibudh08/Vibudh08/2a21d7469d7c150eda49aedf44c541ade369882b/assets/project-taskflow.svg" width="410" alt="Taskflow: authenticated task dashboard with filters, pagination, metrics and optimistic updates. Next.js, TypeScript, MongoDB and TanStack Query." /></a>
+<a href="https://github.com/Vibudh08/Nexora"><img src="https://raw.githubusercontent.com/Vibudh08/Vibudh08/2a21d7469d7c150eda49aedf44c541ade369882b/assets/project-nexora.svg" width="410" alt="Nexora Digital: lead management, a Gemini chatbot, Razorpay test payments and email automation. Next.js, TypeScript and MongoDB." /></a>
 
 </div>
 
