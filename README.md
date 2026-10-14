@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="https://vibudh-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vibudh08/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vibudhrathore8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Vibudh08"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://vibudh-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vibudh08/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vibudhrathore8@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://vibudh-portfolio.vercel.app/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-View-181717?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 
 </div>
 
@@ -72,15 +72,15 @@ I'm a **Full Stack Developer with 2+ years of experience** building scalable Saa
 
 <div align="center">
 
-<a href="https://github.com/Vibudh08/Eventora"><img src="./assets/project-eventora.svg" width="49%" alt="Eventora" /></a>
-<a href="https://github.com/Vibudh08/Feedback-Fusion"><img src="./assets/project-feedback-fusion.svg" width="49%" alt="Feedback Fusion" /></a>
+<a href="https://github.com/Vibudh08/Eventora" target="_blank" rel="noopener noreferrer"><img src="./assets/project-eventora.svg" width="49%" alt="Eventora" /></a>
+<a href="https://github.com/Vibudh08/Feedback-Fusion" target="_blank" rel="noopener noreferrer"><img src="./assets/project-feedback-fusion.svg" width="49%" alt="Feedback Fusion" /></a>
 
-<a href="https://github.com/Vibudh08/Taskflow"><img src="./assets/project-taskflow.svg" width="49%" alt="Taskflow" /></a>
-<a href="https://github.com/Vibudh08/Nexora"><img src="./assets/project-nexora.svg" width="49%" alt="Nexora Digital" /></a>
+<a href="https://github.com/Vibudh08/Taskflow" target="_blank" rel="noopener noreferrer"><img src="./assets/project-taskflow.svg" width="49%" alt="Taskflow" /></a>
+<a href="https://github.com/Vibudh08/Nexora" target="_blank" rel="noopener noreferrer"><img src="./assets/project-nexora.svg" width="49%" alt="Nexora Digital" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Vibudh08?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/Vibudh08?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 </div>
 
@@ -167,14 +167,14 @@ I'm interested in **full-stack development, SaaS, e-commerce, modern web product
 
 ### Have a project, opportunity, or idea? Let's build something useful.
 
-<a href="mailto:vibudhrathore8@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-vibudhrathore8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vibudh" /></a>
+<a href="mailto:vibudhrathore8@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Let's%20Talk-vibudhrathore8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vibudh" /></a>
 
 <br/><br/>
 
-<a href="https://komarev.com/ghpvc/?username=Vibudh08"><img src="https://komarev.com/ghpvc/?username=Vibudh08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://komarev.com/ghpvc/?username=Vibudh08" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Vibudh08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&abbreviated=true" alt="Profile views" /></a>
 
 <br/><br/>
 
-**[Portfolio](https://vibudh-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vibudh08/) · [GitHub](https://github.com/Vibudh08)**
+<strong><a href="https://vibudh-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.linkedin.com/in/vibudh08/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://vibudh-portfolio.vercel.app/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></strong>
 
 </div>
